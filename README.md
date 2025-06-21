@@ -1,10 +1,3 @@
-Thought for a second
-
-Below is a polished, structured **README.md** for your **WebApp‑AI Trip Planner** project. You can copy/paste it wholesale into your `README.md` file and tweak details (badges, links, team members) as needed.
-
----
-
-```markdown
 # 🌍 AI Trip Planner WebApp
 
 <p align="center">
